@@ -1,12 +1,6 @@
-# Portfolio V5
+# Portfolio 
 
 Hello everyone\! 👋
-
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
-
-## 🚀 Live Demo
-
-**Website Link:** [https://www.eki.my.id/](https://www.eki.my.id/)
 
 ## 🛠️ Tech Stack
 
@@ -230,19 +224,10 @@ If you encounter issues while running the project:
   - Make sure your Supabase configuration in the `.env` file is correct and the server has been restarted.
   - Clear your browser cache and try again.
 
-## 📝 Usage & Credits
+**BLACK STAR**
 
-We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
-
-## 📞 Contact
-
-If you have any questions or need help with the setup, feel free to reach out\!
-
-**Eki Zulfar Rachman**
-
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
+  - GitHub: [blackstarvip](https://github.com/blackstarvip)
 
 -----
 
-⭐ If this project helped you, please consider giving it a star on GitHub\!
+⭐ If this project helped you, please give it a star on GitHub\!
